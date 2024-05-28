@@ -60,7 +60,7 @@
     font-size: 1rem;
   }
   footer nav {
-    height: fit-content;
+    height: 40vh;
     margin-bottom: 2rem;
   }
   .about-containers,
