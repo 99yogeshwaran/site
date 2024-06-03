@@ -384,10 +384,7 @@ article .icon {
 /* CONTACT */
 
 #contact {
-  display: flex;
-   padding-top: 4vh;
-  height: 96vh;
-  margin: 0 10rem;
+  display: flex; 
   justify-content: center;
   flex-direction: column;
   height: 70vh;
