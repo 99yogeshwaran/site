@@ -365,17 +365,18 @@ article .icon {
 }
 
 .project-img {
-  border-radius: 2rem;
+  border-radius: 1rem;
   width: 50%;
   height: 25%;
 }
 
 .project-title {
-  margin: 1rem;
+  margin: 2rem;
   color: black;
 }
 
 .project-btn {
+  margin: 1rem;
   color: black;
   border-color: rgb(163, 163, 163);
 }
