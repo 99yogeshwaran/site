@@ -385,7 +385,9 @@ article .icon {
 
 #contact {
   display: flex;
-  margin-bottom: 50px; 
+   padding-top: 4vh;
+  height: 96vh;
+  margin: 0 10rem;
   justify-content: center;
   flex-direction: column;
   height: 70vh;
