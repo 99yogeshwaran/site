@@ -279,11 +279,8 @@ section {
 
 .about-containers,
 .about-details-container {
+  margin-top: 1rem;
   display: flex;
-}
-
-.about-pic {
-  border-radius: 2rem;
 }
 
 .arrow {
@@ -375,6 +372,7 @@ article .icon {
 }
 
 .project-btn {
+  
   margin: 1rem;
   color: black;
   border-color: rgb(163, 163, 163);
