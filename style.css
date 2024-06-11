@@ -267,7 +267,6 @@ section {
   margin-top: 2em;
   color: black;
   margin-bottom: 2em; 
-  text-align: justify;
 }
 .about-containers {
   gap: 2rem;
@@ -419,11 +418,6 @@ article .icon {
 .contact-icon {
   cursor: default;
 }
-
-.email-icon {
-  height: 2.5rem;
-}
-
 
 /* FOOTER SECTION */
 
