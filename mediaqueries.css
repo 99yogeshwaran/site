@@ -49,13 +49,13 @@
 
 @media screen and (max-width: 600px) {
   #contact {
-    height: 40vh;
+    height: 30vh;
   }
   #footer{
     height: 20vh
   }
   #profile {
-    height: 70vh;
+    height: 50vh;
     margin-bottom: 0;
   }
   article {
