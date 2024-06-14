@@ -269,6 +269,9 @@ section {
   margin-bottom: 2em; 
   text-align: justify;
 }
+.code_text{
+  color: black; 
+}
 .about-containers {
   gap: 2rem;
   margin-bottom: 2rem;
