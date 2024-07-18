@@ -49,8 +49,7 @@
 
 @media screen and (max-width: 600px) {
   #contact {
-    margin-top: 4rem;
-
+    margin-top: 3rem;
     height: 30vh;
   }
   #footer{
@@ -58,7 +57,7 @@
   }
   #profile {
     height: 50vh;
-    margin-bottom: 4rem;
+    margin-bottom: 3rem;
   }
   article {
     font-size: 1rem;
